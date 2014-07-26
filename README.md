@@ -1,7 +1,7 @@
 dotfiles-bash
 ========
 
-> Default Ordinace Targeting Files In Linux, Especially Sourcecode
+> Default Ordnace Targeting Files In Linux, Especially Sourcecode
 
 
 dependencies
